@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40b35776-edd0-40f9-a1d7-000b414aefbb": {
+      "ProjectGuid": "40b35776-edd0-40f9-a1d7-000b414aefbb",
+      "DisplayName": "7x7 game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
